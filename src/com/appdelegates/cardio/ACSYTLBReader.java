@@ -1,5 +1,14 @@
 package com.appdelegates.cardio;
 
+/*
+ *
+ 
+ Code Copyright 2014, AppDelegates LLC
+ Feel free to borrow and pay it forward.
+ www.appdelegates.com
+ 
+*/
+
 import java.io.*;
 import java.util.*;
 import javax.smartcardio.*;

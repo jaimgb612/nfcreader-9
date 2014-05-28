@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CardIO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CardIO_jar</output-path>
+    <root id="archive" name="CardIO.jar">
+      <element id="module-output" name="CardIO" />
+      <element id="library" level="project" name="httpclient-4.3.3" />
+    </root>
+  </artifact>
+</component>
